@@ -60,7 +60,7 @@ extrafont::loadfonts()
 14:15 - 16:00 Session 3: Visualizing Data and Results with R
 
 Slides and additional content are on [Moodle](https://moodle.hertie-school.org/mod/book/view.php?id=43506&chapterid=1181
-) and [GitHub]()
+) and [GitHub](https://github.com/mhaber/HertieWorkshop)
 
 ## Things we (unfortunately) can't cover
 
